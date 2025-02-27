@@ -1,0 +1,1 @@
+scp -i SparkVM_key.pem -rp azureuser@68.221.30.68:/home/azureuser/src/output src/output
